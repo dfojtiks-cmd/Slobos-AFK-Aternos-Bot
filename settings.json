@@ -6,10 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "daniel_czsk2013.aternos.me
-",
+    "ip": "daniel_czsk2013.aternos.me",
     "port":  62830,
-    "version":1.21.11"",
+    "version":1.21.11 "",
     "try-creative": false
   },
   "position": {
